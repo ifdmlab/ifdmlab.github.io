@@ -81,6 +81,7 @@ img.thumbnail {
 }
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  background-color: #1874cd;
 }
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
@@ -106,10 +107,11 @@ img.thumbnail {
 .navbar-main .navbar-item {
   display: flex;
   align-items: center;
+  color: #fffafa;
   padding: 1.25rem 0.75rem;
 }
 .navbar-main .navbar-item.is-active {
-  color: #3273dc;
+  color: #ffa500;
   background-color: transparent;
 }
 @media screen and (max-width: 1087px) {
