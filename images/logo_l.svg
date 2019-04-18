@@ -1,0 +1,22 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_20">
+   <g stroke="null" transform="matrix(0.6098215429652722,0,0,0.6341678662257871,-8671.22788602488,-6224.737887333609) " id="svg_18">
+    <title stroke="null" transform="translate(14235.009765625,0) translate(0,9931.7607421875) ">background</title>
+    <rect stroke="null" x="14234.009766" y="9930.760742" width="582" height="402" id="svg_16" fill="none"/>
+   </g>
+   <g stroke="null" transform="matrix(0.6098215429652722,0,0,0.6341678662257871,-8671.22788602488,-6224.737887333609) " id="svg_19">
+    <title stroke="null" transform="translate(-11.478768348693848,37.84486770629883) translate(14235.009765625,0) translate(0,9931.7607421875) ">Layer 1</title>
+    <path stroke="null" fill="#2366d1" d="m14334.382247,10097.60561l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" id="svg_15"/>
+    <path stroke="null" fill="#609dff" d="m14334.382247,10033.60561l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" id="svg_14"/>
+    <path stroke="null" fill="#a4c7ff" d="m14334.382247,9969.60561l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" id="svg_13"/>
+    <path stroke="#000" fill="#fff" stroke-width="1.5" opacity="0.5" d="m14508.030997,10005.60561" id="svg_12"/>
+    <path stroke="#000" fill="#fff" stroke-width="1.5" opacity="0.5" d="m14950.030997,10097.60561" id="svg_11"/>
+    <text stroke="null" fill="#ffffff" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="2780.172069" y="1932.527047" id="svg_10" font-size="24" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" text-anchor="start" xml:space="preserve" transform="matrix(5.631186714158464,0,0,5.478129948343286,-1187.5222940126237,-438.88696343914086) " font-weight="normal">IF&amp;DMLab</text>
+   </g>
+  </g>
+ </g>
+</svg>
